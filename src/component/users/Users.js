@@ -653,7 +653,7 @@ export class Users extends Component {
 }
 const userStye={
   display:'grid',
-  gridTemplateColumns:'repeat(3,1fr)',
+  gridTemplateColumns:'repeat(3,2fr)',
   gridGap:'rem',
   
 }
